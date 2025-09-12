@@ -1,3 +1,6 @@
+<div height="512">
+  <img src="https://github.com/user-attachments/assets/cd2e45e4-c36e-43d8-992f-9ff75b2aee2a" width="2048"/>
+</div>
 
 # Canne intelligente pour malvoyants  
 
@@ -28,3 +31,4 @@ avec des objectifs d’accessibilité, de fiabilité et de simplicité d’utili
   - Ouverture automatique du portail si la carte est reconnue.  
 - **Intégration matérielle** : Arduino, capteurs de distance, LED, écran et carte à puce.  
 - **Objectif pédagogique** : mise en pratique des notions de spécification système, conception matérielle/logicielle, tests et validation.  
+
