@@ -16,6 +16,9 @@ l’utilisateur à insérer sa carte, et si celle-ci est reconnue, un **portail 
 Ce projet combine **conception matérielle (Arduino, capteurs, actionneurs, LED)** et **développement logiciel embarqué**,  
 avec des objectifs d’accessibilité, de fiabilité et de simplicité d’utilisation.  
 
+**Projet réalisé en collaboration avec Wilsan Waberi et Samuela Sene.**
+ 
+
 ---
 
 ## Fonctionnalités principales  
@@ -32,3 +35,6 @@ avec des objectifs d’accessibilité, de fiabilité et de simplicité d’utili
 - **Intégration matérielle** : Arduino, capteurs de distance, LED, écran et carte à puce.  
 - **Objectif pédagogique** : mise en pratique des notions de spécification système, conception matérielle/logicielle, tests et validation.  
 
+---
+
+[![Watch the video](https://img.youtube.com/vi/peKp9HXuVFg/maxresdefault.jpg)](https://www.youtube.com/watch?v=peKp9HXuVFg)
